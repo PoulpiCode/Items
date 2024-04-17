@@ -9,6 +9,7 @@ using Terraria.DataStructures;
 using Microsoft.Xna.Framework;
 using System.Collections.Generic;
 
+/*test*/
 namespace Runes.Items.Accessories
 {   
 
